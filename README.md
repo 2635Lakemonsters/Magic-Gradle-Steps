@@ -2,6 +2,8 @@
 1. Cloned FRC2021 code
 2. Followed Thomas's magic steps described below
 
+These steps worked to add the robototes 2022 WPILib-compatible version of the 2910 common library into our base robot project. See 2022 FRC code for implementation.
+
 ## Thomas works his magic: An Explanation
 ### 0. Need to get correct submodule from 2910 or robototes or some other team that has updated the OG 2910 library to the latests VSCode
 * get `2022_updates` branch and pull the branch down
